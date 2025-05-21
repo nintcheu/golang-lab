@@ -15,6 +15,7 @@
                 "ms-vscode.azurecli",
                 "HashiCorp.terraform",
                 "ms-azuretools.vscode-azureresourcegroups",
+                "ms-vscode.vscode-node-azure-pack",
                 "ms-codespaces-tools.ado-codespaces-auth"
             ]
         }
